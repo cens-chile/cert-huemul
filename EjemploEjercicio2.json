@@ -85,7 +85,7 @@
           "reference": "http://tei-fhir.cens.cl/fhir/Encounter/142"
         },
         "requester": {
-          "reference": "http://tei-fhir.cens.cl/fhir/PractitionerRole/145"
+          "reference": "http://tei-fhir.cens.cl/fhir/PractitionerRole/150"
         },
         "reasonCode": [
           {
